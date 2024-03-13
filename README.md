@@ -26,9 +26,9 @@ For Windows
 
 [2] Locate the project file through the terminal with "cd" 
 
-## Expected outcome:
+## Expected output:
 
-Running it through the terminal with *console.log* it should return the following:
+Running it through the terminal with *console.log* should return the following:
   
     console.log(storePassword("John", "Pass1234", "Pass1234")); 
 
